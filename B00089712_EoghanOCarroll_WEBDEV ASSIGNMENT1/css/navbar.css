@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/*	Nav Bar css	*/
+
+
+nav{
+	width: 90%;
+	background-color:#515151;
+	height: auto;
+	margin-left: 5%;
+	margin-right: 5%;
+	border: double #A2A2A2;
+	text-align: center;
+}
+
+/*List of links CSS*/
+#navbar{
+	list-style: none;
+	width: 90%;
+	display: inline-block;
+}
+
+/*Links in nav bar css*/
+.nav{
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+}
+
+.nav:hover{
+	color: black;
+}
+
+/*List Item in Navbar css*/
+.navi{
+	width: 18%;
+	display: inline-block;
+}
+
+
+/*Footer Css*/
+footer{
+	background-color: #515151;
+	margin-top: 1%;
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
+	display: inline-block;
+	border: double #A2A2A2;
+	font-size: small;
+	color: #C3C3C3;
+}
+
+.logo{
+	display: compact;
+}
+
+#link{
+	text-decoration: none;
+	color: #990002;
+}
+#me{
+	float:right;}
+
+
+.background_div{
+	vertical-align: top;
+	display:inline-block;
+	background-color: #515151;
+	color: #FFFFFF;
+	height: inherit;
+	}
