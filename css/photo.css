@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+.photography{
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
+	background-color: #515151;
+	text-align: center;
+}
+
+
+img{
+	margin: 2%;
+	margin-top: 0%;
+}
+
+#bertnshan{
+	float: right;
+	padding-right: 5%;
+}
